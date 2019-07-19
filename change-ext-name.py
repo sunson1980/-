@@ -6,3 +6,7 @@
  # @ Description:This will batch rename a group of files in a given directory,
 once you pass the current and new extensions
  '''
+ 
+import os
+import argparse
+
